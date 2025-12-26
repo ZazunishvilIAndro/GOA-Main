@@ -1,26 +1,36 @@
-#Level 1 (დავალება 3)
-name = "andro"
-lastname = "zazunishvili"
-age = 16
-height = 1.80
-print (name)
-print (lastname)
-print (age)
-print (height)
-#Level 1 (დავალება 6)
-int = 4 #მთელი რიცხვი
-float = 4.5 #ათწილადი რიცხვი
-str = "gamarjoba" #ტექსტი
-bool = True, False #ლოგიკური მნიშვნელობა
-list = [1, 2, 3] #სია
-tuple = (1, 2, 3,) #შეუცვლელი სია
-set = {1, 2, 3} #მრავალი უნიკალური ელემენტების ნაკრები
-dict = {"სახელი": "ანდრო", "გვარი": "ზაზუნიშვილი"} #ლექსიკონი, key-value წყვილები
-print (int) 
-print (float) 
-print (str) 
-print (bool) 
-print (list)
-print (tuple)
-print (set)
-print (dict)
+#level 1 დავალება 3)
+# name = "andro"
+# lastname = "zazunishvili"
+# age = 16
+# height = 1.80
+# print (name)
+# print (lastname)
+# print (age)
+# print (height)
+
+
+#დავალება 4)
+#ტერიმინი ცვლადის დეკლარაცია (Variable Declaration) პროგრამირებაში ნიშნავს ცვლადის შექმნას და მისი ტიპის ან სახელის განსაზღვრას, რათა ​პროგრამამ იცოდეს, რომ ეს ცვლადი მომავალში უნდა გამოიყენოს და რა სახის ​მონაცემი იქნება მასში შენახული.
+
+
+#დავალება 5)
+#print არის იგივე დაპრინტვა რასაც ეკრანზე გამოაქ ჩვენივე მითითებული რაიმე მნიშვნელობა (სახელი,გვარი,ასაკი,სიმაღლე და რაც გვინდა) მთავარია სწორად იყოს დაწერილი კოდი რომ წაიკითხოს კომპიუტერმა და გამოიტანოს ეკრანზე.
+
+
+#დავალება 6)
+# int = 4 #მთელი რიცხვი
+# float = 4.5 #ათწილადი რიცხვი
+# str = "gamarjoba" #ტექსტი
+# bool = True, False #ლოგიკური მნიშვნელობა
+# list = [1, 2, 3] #სია
+# tuple = (1, 2, 3,) #შეუცვლელი სია
+# set = {1, 2, 3} #მრავალი უნიკალური ელემენტების ნაკრები
+# dict = {"სახელი": "ანდრო", "გვარი": "ზაზუნიშვილი"} #ლექსიკონი, key-value წყვილები
+# print (int) 
+# print (float) 
+# print (str) 
+# print (bool) 
+# print (list)
+# print (tuple)
+# print (set)
+# print (dict)
