@@ -102,7 +102,7 @@
 
                                           #დავალება 11
 
-fruits = ["apple", "banana", "cherry"]
-array_4 = ["ggg", "hhh", "aaa", "ppp", "ttt"]
-for i in fruits, array_4:
-    print(i)
+# fruits = ["apple", "banana", "cherry"]
+# array_4 = ["ggg", "hhh", "aaa", "ppp", "ttt"]
+# for i in fruits, array_4:
+#     print(i)
