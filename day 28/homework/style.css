@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+nav{
+    background-color: #111827;
+    height: 50px;
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+    background-color: #0051ff;
+    border-radius: 7px;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.div{
+    background-color: #dfdcd1;
+    border-radius: 20px;
+}
+
+h1{
+    color: #facc15; 
+    font-size: 50px;
+}
+
+p{
+    font-size: 22px;
+    line-height: 1.8;
+    color: #631919;
+    font-weight: 500;
+}
